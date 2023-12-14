@@ -1,4 +1,4 @@
-# Predicción-Fraude-Tarjetas
+# Predicción-Fraude-Tarjetas 💳🕵️‍♂️💻
 
 Este repositorio tiene por objeto mostrar, a golpe de vistazo rápido, las fases de preprocesamiento y modelado de machine learning para la predicción de fraude en transacciones con tarjetas de crédito.
 Con objeto de simplificar al máximo, buscando hacer posible ese vistazo rápido, el repositorio contiene un único script listo para ser ejecutado, previa descarga de la base de datos.
