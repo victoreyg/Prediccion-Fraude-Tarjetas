@@ -24,4 +24,4 @@ A este dataset base se le han añadido nuevas variables, las cuales se detallan 
 + Además, a partir de la variable del dataset base “trans_date_trans_time”, se han generado nuevas variables como año, mes, día y hora de la transacción, entendiendo que las mismas podrían guardar relación con el fraude.
 + Por último, a partir de la variable del dataset base “dob” (Date of birth of the card holder) se ha generado la variable “age”, entendiendo que la edad del titular de la tarjeta podría guardar relación con el fraude.
 
-El dataset resultante de añadir todas estas variables al dataset base es el dataset de trabajo.
+El dataset resultante de añadir todas estas variables al dataset base sería el dataset de trabajo enlazado arriba.
