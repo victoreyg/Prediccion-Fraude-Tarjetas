@@ -6,7 +6,7 @@ Con objeto de simplificar al máximo, buscando hacer posible ese vistazo rápido
 El problema a resolver es la **predicción del fraude en una transacción con tarjeta de crédito a partir de datos sobre la propia transacción y sobre la tarjeta de crédito con la que se realiza**.
 
 ## Base de datos
-**Nota:** no es objeto de este repositorio mostrar las tareas de limpieza, mergeado ni análisis exploratorio de las distintas bases de datos utilizadas para la obtención del dataset de trabajo. El script muestra únicamente el preprocesado final (del dataset de trabajo) previo al modelado, prendizaje y predicción. 
+**Nota:** no es objeto de este repositorio mostrar las tareas de limpieza, mergeado ni análisis exploratorio de las distintas bases de datos utilizadas para la obtención del dataset de trabajo. El script muestra únicamente el preprocesado final (del dataset de trabajo) previo al modelado, aprendizaje y predicción. 
 
 El **dataset de trabajo** puede descargarse [aquí](https://drive.google.com/file/d/1CSqUq_aPHoFNEbhUoD7RR7N1ybD8rOYV/view).
 
