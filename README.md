@@ -10,7 +10,7 @@ El problema a resolver es la **predicción del fraude en una transacción con ta
 
 El **dataset de trabajo** puede descargarse [aquí](https://drive.google.com/file/d/1CSqUq_aPHoFNEbhUoD7RR7N1ybD8rOYV/view).
 
-Partimos de un _dataset base_ descargado de kaggle, al que se puede acceder desde [aquí](https://www.kaggle.com/datasets/dermisfit/fraud-transactions-dataset). Es recomendable pinchar el enlace para entender, también de un vistazo rápido, el tipo de información contenida en las variables de este dataset base.
+Partimos de un dataset base descargado de kaggle, al que se puede acceder desde [aquí](https://www.kaggle.com/datasets/dermisfit/fraud-transactions-dataset). Es recomendable pinchar el enlace para entender, también de un vistazo rápido, el tipo de información contenida en las variables de este dataset base.
 
 A modo de resumen apuntamos que este dataset contiene variables con información del titular de la tarjeta con la que se ha hecho la transacción e información sobre la propia transacción, así como la variable "is_fraud" que indica si se trata o no de una transacción fraudulenta.
 
