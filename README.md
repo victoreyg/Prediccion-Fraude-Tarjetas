@@ -20,7 +20,7 @@ A este dataset base se le han añadido nuevas variables, las cuales se detallan 
 + Cierre de la bolsa (S&P 500), datos de marketwatch que pueden descargarse [aquí](https://www.marketwatch.com/investing/index/spx/download-data), entendiendo que la bolsa y su impacto en la economía podrían guardar relación con el fraude.
 + Tipo de cambio euro/dólar, datos del Banco Central Europero que pueden descargarse [aquí](https://data.ecb.europa.eu/data/datasets/EXR/EXR.D.USD.EUR.SP00.A), entendiendo que el par euro/dólar podría guardar relación con el fraude.
 + Tasa de criminalidad por estado, datos de la oficina federal de investigación de EEUU que pueden descargarse [aquí](https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/explorer/crime/crime-trend), entendiendo que el nivel de criminalidad podría guardar relación con el fraude.
-+ Festivo sí/no, entendiendo que los días festivos pueden guardar relación con el fraude.
++ Festivo sí/no, entendiendo que los días festivos podrían guardar relación con el fraude.
 + Además, a partir de la variable del dataset base “trans_date_trans_time”, se han generado nuevas variables como año, mes, día y hora de la transacción, entendiendo que las mismas podrían guardar relación con el fraude.
 + Por último, a partir de la variable del dataset base “dob” (Date of birth of the card holder) se ha generado la variable “age”, entendiendo que la edad del titular de la tarjeta podría guardar relación con el fraude.
 
