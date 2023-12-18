@@ -22,6 +22,7 @@ A este dataset base se le han añadido nuevas variables, las cuales se detallan 
 + Tasa de criminalidad por estado, datos de la oficina federal de investigación de EEUU que pueden descargarse [aquí](https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/explorer/crime/crime-trend), entendiendo que el nivel de criminalidad podría guardar relación con el fraude.
 + Festivo sí/no, entendiendo que los días festivos podrían guardar relación con el fraude.
 + Además, a partir de la variable del dataset base “trans_date_trans_time”, se han generado nuevas variables como año, mes, día y hora de la transacción, entendiendo que las mismas podrían guardar relación con el fraude.
++ A partir de las variables "lat", "long", "merch_lat" y "merch_long" se han generado las variables "dist_lat" y "dist_long", entendiendo que la distancia del lugar de la transacción respecto al domicilio del titular de la tarjeta podría guardar relación con el fraude.
 + Por último, a partir de la variable del dataset base “dob” (Date of birth of the card holder) se ha generado la variable “age”, entendiendo que la edad del titular de la tarjeta podría guardar relación con el fraude.
 
 El dataset resultante de añadir todas estas variables al dataset base sería el dataset de trabajo enlazado arriba.
